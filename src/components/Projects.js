@@ -6,7 +6,7 @@ import projImg3 from "../assets/img/discord.png";
 import projImg4 from "../assets/img/voting.png";
 import projImg5 from "../assets/img/blockchain.png";
 import projImg6 from "../assets/img/web3shop.png";
-import projImg7 from "../assets/img/dex.png";
+import projImg7 from "../assets/img/dexx.png";
 
 
 
