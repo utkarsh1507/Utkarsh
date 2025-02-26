@@ -7,6 +7,8 @@ import projImg4 from "../assets/img/voting.png";
 import projImg5 from "../assets/img/blockchain.png";
 import projImg6 from "../assets/img/web3shop.png";
 import projImg7 from "../assets/img/dexx.png";
+import projImg8 from "../assets/img/daoo.png";
+
 
 
 
@@ -100,7 +102,7 @@ export const Projects = () => {
                           <ProjectCard
                             title="DAO Platform"
                             description="A decentralized autonomous organization platform"
-                            imgUrl={projImg2}
+                            imgUrl={projImg8}
                             repoUrl="https://github.com/yourusername/dao-platform"
                           />
                         </Row>
